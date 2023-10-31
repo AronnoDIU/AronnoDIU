@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on both open source and commercial projects
 - 📫 How to reach me https://www.linkedin.com/in/yeasirarafataronno/
 
-Nice to meet you!<br><br>
-![](https://komarev.com/ghpvc/?username=AronnoDIU&color=brightgreen)
+###Nice to meet you!<br>
+![](https://komarev.com/ghpvc/?username=AronnoDIU)
 
 <!---
 AronnoDIU/AronnoDIU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
