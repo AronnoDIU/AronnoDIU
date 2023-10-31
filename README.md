@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeasir_Arafat
+- 👋 Hi, I’m Yeasir Arafat
 - 👀 I’m interested in playing role as Java Software Engineer in a reputed company
 - 🌱 I’m currently learning Core Java, JavaSE, Restful WS, Spring boot etc
 - 💞️ I’m looking to collaborate on both open source and commercial projects
