@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on both open source and commercial projects
 - 📫 How to reach me https://www.linkedin.com/in/yeasirarafataronno/
 
-Nice to meet you!
+Nice to meet you!<br>
 ![](https://komarev.com/ghpvc/?username=AronnoDIU)
 
 <!---
