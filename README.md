@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/yeasirarafataronno/
 
 Nice to meet you!<br>
-![](https://komarev.com/ghpvc/?username=AronnoDIU)
+![](https://komarev.com/ghpvc/?username=AronnoDIU&color=brightgreen)
 
 <!---
 AronnoDIU/AronnoDIU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
