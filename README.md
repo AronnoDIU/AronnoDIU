@@ -7,7 +7,7 @@
 Nice to meet you!<br>
 ![](https://komarev.com/ghpvc/?username=AronnoDIU&style=for-the-badge) <br>
 
-[![Yeasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronnoDIU&show_icons=true&theme=radical)](https://github.com/AronnoDIU) <br>
+[![Yeasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronnoDIU&show_icons=true&theme=radical)](https://github.com/AronnoDIU)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronnoDIU&layout=compact&theme=radical)](https://github.com/AronnoDIU) <br> <br>
 
 
